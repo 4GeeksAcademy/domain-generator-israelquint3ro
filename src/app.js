@@ -1,7 +1,7 @@
 let pronoun = ['the', 'our', 'los', 'grupo', 'asossiation'];
 let adj = ['main', 'ultimate', 'wonderful', 'rapids', 'intelligent'];
 let noun = ['jogger', 'mexicanos', 'footballer', 'campesinos', 'geeks'];
-let extension = ['.com','.es','.ios','es','.de','.pa']
+let extension = ['.com','.es','.ios','.es','.de','.pa']
 
 function domainGenerator() {
   for (let i = 0; i < pronoun.length; i++) {
